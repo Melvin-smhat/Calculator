@@ -2,8 +2,8 @@
 it a calculator with realistic design using HTML || CSS || JAVASCRIPT
 
 This is the screenshot of the dark mode
-![Alt Text](screenshot/1.png)
+![Dark mode shots](screenshot/1.png)
 
 This is the screenshot of the light mode
-![Alt Text](screenshot/2.jpg)
+![Light mode shot](screenshot/2.png)
 
